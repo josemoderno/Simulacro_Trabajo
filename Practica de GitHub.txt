@@ -4,19 +4,19 @@ Nombre        Archivo
 
 Anderson --  index.txt
 Darianny --  routes_get.txt
-David    --  hooks.txt
-Douglas  --  routes_post.txt  
-Julio    --  env.txt
-Felix    --  config.txt
-Jesus T. --  routes_delete.txt
+David    --  hooks.txt --------------- *
+Douglas  --  routes_post.txt --------- *
+Julio    --  env.txt ----------------- *
+Felix    --  config.txt -------------- *
+Jesus T. --  routes_delete.txt ------- *
 Jesus D. --  sass.txt
-Jorge    --  routes_patch.txt
+Jorge    --  routes_patch.txt -------- *
 Jose A.  --  routes_put.txt
 Kyre     --  globals.txt
-Luis C.  --  styles.txt
-Luis T.  --  database.txt
-Samuel   --  api.txt
-Leiro    --  sql.txt  
+Luis C.  --  styles.txt  ------------- *
+Luis T.  --  database.txt ------------ *
+Samuel   --  api.txt     ------------- *
+Leiro    --  sql.txt     ------------- *
 Nelson   --  scripts.txt
-Edward   --  framework.txt
-Victor H --  modules.txt
+Edward   --  framework.txt ----------- *
+Victor H --  modules ----------------- *
